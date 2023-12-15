@@ -36,5 +36,6 @@ public class Carro {
 
     void buzinar() {
         System.out.println("bibibib");
+        System.out.println("A velocidade é " + vel + "KM/H");
     }
 }
